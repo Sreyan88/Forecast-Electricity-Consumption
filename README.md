@@ -13,7 +13,7 @@ Forecast the electricity consumption of top 3 households with highest number of 
 
 <p align="center">
   <b> Model Description </b><br>
-  </p>
+  </p></br>
   
  ### Major Components of the model:
  
