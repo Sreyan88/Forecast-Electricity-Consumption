@@ -2,5 +2,5 @@
 Repository for TCS HumAIn competition
 
 
-![alt text](https://raw.githubusercontent.com/Sreyan88/HumanAIn/img.png)
+![alt text](https://github.com/Sreyan88/TCS-HumAIn/blob/master/tatadiag.png)
 
