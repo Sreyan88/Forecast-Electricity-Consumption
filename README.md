@@ -9,7 +9,7 @@ Forecast the electricity consumption of top 3 households with highest number of 
 <p align="center">
 <b>Model Proposed</b><br><br>
 <img width="299" height="451" src="https://github.com/Sreyan88/TCS-HumAIn/blob/master/Extra/tatadiag.png">
-</p>
+</p></br>
 
 <p align="center">
   <b> Model Description </b><br>
