@@ -2,7 +2,11 @@
 Repository for TCS HumAIn competition
 
 
+
+
+
 <p align="center">
+## Model Proposed
 <img width="299" height="451" src="https://github.com/Sreyan88/TCS-HumAIn/blob/master/Extra/tatadiag.png">
 </p>
 
