@@ -21,7 +21,7 @@ Forecast the electricity consumption of top 3 households with highest number of 
  
  2. Cyclic Learning Rate was used to train the model to take into account the problem of exploding and vanishing gradients.
  
- 3. The auxillary input to the model consists of various features taken from the time-series sequence. The features include fractal dimension of the time-series and the hour of the day in the measurement was recorded. ### More information about the extra features is included with the code.
+ 3. The auxillary input to the model consists of various features taken from the time-series sequence. The features include fractal dimension of the time-series and the hour of the day in the measurement was recorded.More information about the extra features is included with the code.
  
  4. Validation was done for MSE and MAE metrics.
  
