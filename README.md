@@ -1,5 +1,5 @@
-# TCS-HumAIn
-### This Repository contains the code for TCS HumAIn competition
+# Forecasting Electricity Consumption
+### This Repository contains the code for TCS HumAIn competition. My main task was to forecast electricity consumption.
 
 ### Problem Statement:
 
